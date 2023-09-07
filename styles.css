@@ -1,0 +1,51 @@
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-family:cursive;
+    font-size: 40px;
+}
+
+body {
+    background-color: rgb(19, 39, 53);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+width: 400px;
+}
+
+table,
+td {
+  border: 1px solid #333;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+}
+
+thead {
+  background-color: rgb(174, 176, 177);
+  font-size: 30px;
+}
+
+td {
+    background-color:rgb(255, 255, 255);
+    color: black;
+    font-size: 20px;
+    font-style: strong
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+text-decoration: underline;
+}
+
+blockquote {    
+    color: aliceblue;
+    font-size: 18px;
+    font-style: italic;
+}
